@@ -41,9 +41,10 @@ etc.?
 
 
 ## Analysis 
-
-
-
+![Capture 1](https://github.com/user-attachments/assets/4be020d7-cffc-4704-9cd9-a628bf327b78)
+![Capture 2](https://github.com/user-attachments/assets/a7197305-e20a-4552-9440-4da4a31c98d2)
+![Capture 3](https://github.com/user-attachments/assets/9ceeef7d-d52d-44f3-a9e1-c294fecd8a12)
+![Capture](https://github.com/user-attachments/assets/0886dc15-e632-48a9-95b5-cff0c345c481)
 
 
 ## Results and Recommendations
