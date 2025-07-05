@@ -12,7 +12,7 @@ key areas within the business that could give rise to issues, and address them i
 The data source used here is Palmoria Group emp data .csv and, Palmoria Group Bonus rules.excel workbook and this is an open-source dataset that can be freely downloaded online on Kaggle or FRED
 
 ### Tools Used 
-- POWER BI:
+- Ms Excel and POWER BI:
    - For data cleaning
    - For the Explanatory Data Analysis
    - For Pivot Tables, Calculated columns
@@ -41,7 +41,7 @@ etc.?
 
 
 
-# Results and Recommendations
+## Results and Recommendations
 According to the data set, In Palmoria Group there is a total of 833 employees distributed in 3 various regions: Abuja, Kaduna, and Lagos.
 The two genders are well represented in the company. However, some employees did not disclose their gender, which makes us have: 414 male, 385 female, and 34 NonBinary.
 After the global analysis, we can say that at Palmoria Group access to resources and opportunities is not limited by any gender. According to the analysis based on ratings, we can see that males are the ones who have the highest very poor rating, while females are first with the very good rating. It means that you are rewarded according to the work you do. 
@@ -53,3 +53,13 @@ The department where we recommend some changes in terms of salary for the time b
 
 Since the Company has not been able to meet the requirement of $90,000 monthly, they are trying their best to implement a bonus system to encourage well-rated employees.
 The total amount allocated for the bonus is $1,94M. The total potential amount to be paid is $63,7M annually.
+
+
+### Recommendations
+- Correcting the gender pay gap across departments.
+- Allowing everybody to disclose their gender by  creating a peaceful and safe environment.
+- Ensuring the regulations are respected by increasing staff salary to $90,000.
+- Fostering gender balance and cultivating oneness.
+  
+
+
