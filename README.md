@@ -40,6 +40,11 @@ etc.?
 - Also visualize this by regions
 
 
+## Analysis 
+
+
+
+
 
 ## Results and Recommendations
 According to the data set, In Palmoria Group there is a total of 833 employees distributed in 3 various regions: Abuja, Kaduna, and Lagos.
