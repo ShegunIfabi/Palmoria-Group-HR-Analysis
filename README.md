@@ -1,4 +1,4 @@
-# Capstone project Documentation 
+# Capstone Project Documentation 
 Here is the presentation of my project.
 This project stands to be my Capstone project after completing a long training program with DSA.
 
@@ -12,6 +12,7 @@ key areas within the business that could give rise to issues, and address them i
 The data source used here is Palmoria Group emp data .csv and, Palmoria Group Bonus rules.excel workbook and this is an open-source dataset that can be freely downloaded online on Kaggle or FRED
 
 ### Tools Used 
+- Ms Excel and POWER BI [Download here](https://www.microsoft.com)
 - Ms Excel and POWER BI:
    - For data cleaning
    - For the Explanatory Data Analysis
