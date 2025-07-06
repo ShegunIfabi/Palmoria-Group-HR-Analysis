@@ -18,6 +18,7 @@ The data source used here is Palmoria Group emp data .csv and, Palmoria Group Bo
    - For the Explanatory Data Analysis
    - For Pivot Tables, Calculated columns
    - For Dashboard ( Visualisation)
+   - For DAX Calculations
 
 ### Data cleaning process
 - There are two genders in the organization. However, some employees 
